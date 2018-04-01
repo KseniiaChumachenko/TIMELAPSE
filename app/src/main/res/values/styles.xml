@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="Timelapse2" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="android:colorPrimary">@android:color/black</item>
+        <item name="android:colorPrimaryDark">@android:color/black</item>
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:textColorPrimary">@android:color/background_dark</item>
+        <item name="android:colorAccent">@color/accent_material_light</item>
+        <item name="android:textColorPrimaryInverse">@android:color/black</item>
+    </style>
+
+</resources>
